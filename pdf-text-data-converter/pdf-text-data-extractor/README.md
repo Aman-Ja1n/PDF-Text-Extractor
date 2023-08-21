@@ -1,8 +1,4 @@
 # PDF to Text
-[![Open in Streamlit]()]()
-![visitor badge]()
-![forks badge]()
-![starts badge]()
 
 PDF text data extraction app that takes a PDF document as input and returns either a txt file that contains all pages or a compressed folder of txt files representing the document pages. OCR can also be enabled for scanned docoments.
 
