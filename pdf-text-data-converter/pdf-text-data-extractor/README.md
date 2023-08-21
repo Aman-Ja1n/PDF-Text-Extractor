@@ -3,7 +3,7 @@
 PDF text data extraction app that takes a PDF document as input and returns either a txt file that contains all pages or a compressed folder of txt files representing the document pages. OCR can also be enabled for scanned docoments.
 
 
-![pdf_text_image](https://user-images.githubusercontent.com/50157142/214037439-448fafb8-5363-46cb-849e-6132f9bc0fb2.PNG)
+![pdf_text_image]()
 
 
 
